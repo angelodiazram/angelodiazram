@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Angelo Díaz</h1>
 <h3 align="center">Soy desarrollador web Full Stack (MERN)</h3>
 
-- 🔭 Actualmente estoy trabajando como **Freelance y Guitar Tech**
+- 🔭 Actualmente estoy trabajando como **Freelancer y Guitar Tech**
 
 - 🌱 Estoy aprendiendo sobre **Astro**
 
