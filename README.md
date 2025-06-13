@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Me llamo Angelo Díaz</h1>
 <h3 align="center">Soy desarrollador web Full Stack (MERN)</h3>
 
-- 🔭 Actualmente estoy trabajando como **Freelancer y Guitar Tech**
+- 🔭 Actualmente estoy trabajando como **Freelancer y Luthier, Guitar/Bass Tech**
 
-- 🌱 Estoy aprendiendo sobre **Astro**
+- 🌱 Actualmente estoy aprendiendo **NEXTjs**, **PostgreSQL** y **Astro**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/angelodiazram?tab=repositories](https://github.com/angelodiazram?tab=repositories)
 
-- 📫 Puedes escribirme a **angelodiazram@gmail.com**
+- 📫 Puedes escribirme a **desarrolloweb@angelodiazdev.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
